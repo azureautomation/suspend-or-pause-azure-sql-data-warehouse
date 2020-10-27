@@ -1,0 +1,20 @@
+{
+    "Author": "Allan.Miller",
+    "ContentSize": 4527,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/suspend-or-pause-azure-sql-data-warehouse/master/SuspendOrPauseAzureSQLDataWarehouse.ps1",
+    "DownloadCount": 3093,
+    "Id": "Suspend-Or-Pause-Azure-SQL-be3bf01b",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 50,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-11-3T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Suspend / Pause Azure SQL Data WarehouseThis is a simple runbook that will allow you to see if there are queries currently running on your Azure SQL Data Warehouse before you Suspend/Pause the service.Why you want to see if Queries are RunningIt is common that a team will work on",
+    "Title": "Suspend Or Pause Azure SQL Data Warehouse",
+    "UpdatedDate": "2017-11-3T00:00:00",
+    "Url": "https://github.com/azureautomation/suspend-or-pause-azure-sql-data-warehouse",
+    "UserTags": "Azure Automation, Azure SQL Data Warehouse"
+}
